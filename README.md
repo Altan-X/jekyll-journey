@@ -26,8 +26,8 @@ Repo for learning how to make websites with jekyll pages
 
 **Github Pages**
 - free website hosting
-- Steps:
-1. 
+- repo must be set to public to enable Github Pages
+
 ## References
 1. [Building Websites With Jekyll and GitHub](https://carpentries-incubator.github.io/jekyll-pages-novice/)
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
