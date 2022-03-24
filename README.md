@@ -2,11 +2,14 @@
 Repo for learning how to make websites with jekyll pages
 
 ## README.md  
-This is now a github page `gh-page`  
+This is now a github page under the `gh-page`  branch.  
 
-Github url: `https://GITHUB_USERNAME.github.io/REPOSITORY_NAME`  
-
-This is not the same as the landing page for the site. You may find that via `index.md`
+The actual website for this repo follows this format:  
+Github Website url: `https://GITHUB_USERNAME.github.io/REPOSITORY_NAME`  
+  
+Check out the website of this [repo](https://altan-x.github.io/jekyll-journey/).
+  
+*Note*: This is not the same as the landing page for the site. You may find that via `index.md`
 
 ## For more information
-1. [Custom Domain](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
+[Customizing Domain](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
