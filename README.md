@@ -16,7 +16,8 @@ Repo for learning how to make websites with jekyll pages
 - *italics*: `*text here*`
 - **bold**: `**text**`
 - paragraph break: double space
-- bullet points: - then text
+- bullet points: `- then text`
+- > Quoted blocks: `> text`
 - numbered list: place *'#.'* before text
 - Links: `[text](url.com)`
 - Image upload: `![text](url.com) `
