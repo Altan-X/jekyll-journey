@@ -5,28 +5,31 @@ Repo for learning how to make websites with jekyll pages
 **README.md** 
 - first to be displayed on Git repo
 - Markdown file
-- header syntax is similar to IPython Shell  
+- header syntax is similar to iPython Shell
 
 **Terminology**
 - Markdown: simpler HTML 
 - Commit: Git edits
 
 **Markdown (md) Syntax**
-- italics: *
-- bold: ** **
-- paragraph break: double-spaces
-- bullet points: - text here
-- numbered list: place '#.' before text
-- Links: [text](URL)
-- Image upload: ! + link syntax 
+- markdown syntax is Discord code syntax
+- *italics*: `*text here*`
+- **bold**: `**text**`
+- paragraph break: double space
+- bullet points: - then text
+- numbered list: place *'#.'* before text
+- Links: `[text](url.com)`
+- Image upload: `![text] `
 
 *For multiple source citation:*  
-  [Title][reference]  
-  [reference]: url_here
+  `[Title][reference]`
+  `[reference]: url.com`
 
 **Github Pages**
 - free website hosting
-- repo must be set to public to enable Github Pages
+- Note: repo must be set to *public* to enable Github Pages
+- Settings -> Pages -> Select branch `main`
+
 
 ## References
 1. [Building Websites With Jekyll and GitHub](https://carpentries-incubator.github.io/jekyll-pages-novice/)
