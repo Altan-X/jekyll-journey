@@ -26,10 +26,14 @@ Repo for learning how to make websites with jekyll pages
   `[reference]: url.com`
 
 **Github Pages**
-- free website hosting
+- free website hosting?
 - Note: repo must be set to *public* to enable Github Pages
 - Settings -> Pages -> Select branch `main`
+- Other files here must be referenced accordingly from `file.md` as `https://YOURUSERNAME.github.io/REPONAME/other-files.html` to access the page
 
+**index.md**
+- default landing site in `main` branch
+- Jekyll converts `index.md` to `index.html`
 
 ## References
 1. [Building Websites With Jekyll and GitHub](https://carpentries-incubator.github.io/jekyll-pages-novice/)
