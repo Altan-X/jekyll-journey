@@ -19,7 +19,7 @@ Repo for learning how to make websites with jekyll pages
 - bullet points: - then text
 - numbered list: place *'#.'* before text
 - Links: `[text](url.com)`
-- Image upload: `![text] `
+- Image upload: `![text](url.com) `
 
 *For multiple source citation:*  
   `[Title][reference]`
