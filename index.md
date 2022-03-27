@@ -42,3 +42,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Check out more about this project from the [About page](about)
 
 For questions or concerns, you may contact via [email](mailto:{{ site.email }})
+
+{% include footer.html %}
