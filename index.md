@@ -1,4 +1,4 @@
- {% include navigation.html %}
+
 
 ## Welcome to GitHub Pages
 
@@ -43,4 +43,4 @@ Check out more about this project from the [About page](about)
 
 For questions or concerns, you may contact via [email](mailto:{{ site.email }})
 
-{% include footer.html %}
+
