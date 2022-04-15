@@ -1,4 +1,7 @@
-{% include navigation.html %}  
+---
+layout: default
+title: About
+---
 
 
 # About
@@ -10,5 +13,4 @@ This project is a reflection of how I'm learning to build websites using Github 
 
 Email: [{{ site.email }}](mailto:{{ site.email }})
   
-  
-{% include footer.html %}
+ 
