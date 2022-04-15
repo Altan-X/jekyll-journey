@@ -1,5 +1,5 @@
 {% include navigation.html %}  
-{% include layout:default %}
+
 
 # About
 
