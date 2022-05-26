@@ -11,6 +11,7 @@ Repo for learning how to make websites with jekyll pages
 - Markdown: simpler HTML 
 - Commit: Git edits
 
+
 **Markdown (md) Syntax**
 - markdown syntax is Discord code syntax
 - *italics*: `*text here*`
@@ -18,14 +19,37 @@ Repo for learning how to make websites with jekyll pages
 - paragraph break: double space
 - bullet points: `- then text`
 - > Quoted blocks: `> text`
-- numbered list: place *'#.'* before text
+- lists: 
+    - ordered
+        1. ordered: place `1. ` before text
+        2. like this
+    - unordered: `-` or `*`
+    - nested: double identations
 - Links: `[text](url.com)`
 - Image upload: `![text](url.com) `
+- Tables: uses `|` seperator to indicate divisions and `--` under first cells
+- Summary dropdown
+    ```
+    <details>
+      <summary>Title</summary>
+
+        Content here
+    </details>  
+    ```
+  
+<details>
+  <summary> like this </summary>
+    This is a dropdown.
+</details>
+    
+</details>  
 
 *For multiple source citation:*  
   `[Title][reference]`
   `[reference]: url.com`
 
+
+  
 **Github Pages**
 - free website hosting?
 - Note: repo must be set to *public* to enable Github Pages
