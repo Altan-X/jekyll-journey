@@ -25,6 +25,9 @@ Repo for learning how to make websites with jekyll pages
         2. like this
     - unordered: `-` or `*`
     - nested: double identations
+    - checklists 
+        > `+ [ ] text` *for nested list*  
+        > `- [ ] text`
 - Links: `[text](url.com)`
 - Image upload: `![text](url.com) `
 - Tables: uses `|` seperator to indicate divisions and `--` under first cells
