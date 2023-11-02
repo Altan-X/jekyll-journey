@@ -12,8 +12,10 @@ Repo for learning how to make websites with jekyll pages
 - Commit: Git edits
 
 
-**Markdown (md) Syntax**
-- markdown syntax is Discord code syntax
+## Markdown (md) Syntax
+*Note: Markdown syntax is also used in Discord code syntax*
+
+
 - *italics*: `*text here*`
 - **bold**: `**text**`
 - paragraph break: double space
@@ -39,13 +41,13 @@ Repo for learning how to make websites with jekyll pages
         Content here
     </details>  
     ```
-  
-<details>
-  <summary> like this </summary>
-    This is a dropdown.
-</details>
+- Dropdown Example 
+    <details>
+      <summary> Like this (click the arrow) </summary>
+        This is a dropdown.
+    </details>
     
-</details>  
+  
 
 *For multiple source citation:*  
   `[Title][reference]`
